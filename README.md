@@ -49,6 +49,8 @@
   <a href="https://novu.co/contact-us/?utm_campaign=github-readme">Contact us</a>
 </p>
 
+More details => https://youtube.com/watch?v=oRX96VF7xzo
+
 ## ⭐️ Why Novu?
 
 Novu provides a unified API that makes it simple to send notifications through multiple channels, including Inbox/In-App, Push, Email, SMS, and Chat.
